@@ -1,0 +1,6 @@
+markdown_files: 413
+indexed_records: 405
+source_cards: 257
+knowledge_records_excluding_sources: 148
+edges: 1544
+unresolved_internal_links: 0
